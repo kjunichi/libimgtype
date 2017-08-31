@@ -12,3 +12,11 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+imgtype.dll
+imgtype.lib
+imgtype.exp
+libimgtype.h
+libimgtype.a
+examples/main.exe
+examples/main.obj

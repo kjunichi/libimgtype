@@ -1,0 +1,7 @@
+LIBRARY imgtype
+EXPORTS
+   termWait
+   termClose
+   termPutImage
+   termInit
+   termFlush
