@@ -1,6 +1,8 @@
 # libimgtype
 
-imgtype is a like imgcat command for windows.
+![libimgtype](snap.jpg)
+
+[imgtype](https://github.com/kjunichi/imgtype) is a like imgcat command for windows.
 
 libimgtype is a library version of imgtype.
 
