@@ -1,6 +1,6 @@
 # libimgtype
 
-![libimgtype](snap.jpg)
+![libimgtype](snap.png)
 
 [imgtype](https://github.com/kjunichi/imgtype) is a like imgcat command for windows.
 
